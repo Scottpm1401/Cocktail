@@ -1,0 +1,18 @@
+.about_crl {
+  width: 45vw;
+  margin: 0 auto;
+}
+
+.about_crl h1 {
+  text-align: center;
+  letter-spacing: 0.3rem;
+  font-weight: 700;
+  font-size: 2rem;
+  margin-bottom: 3rem;
+}
+
+.about_crl p {
+  line-height: 2rem;
+  letter-spacing: 2px;
+  font-weight: 400;
+}

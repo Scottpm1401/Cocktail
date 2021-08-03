@@ -1,0 +1,41 @@
+.nav_bar {
+  display: flex;
+  align-items: center;
+  height: 5rem;
+  background-color: white;
+  box-shadow: 2px 5px 3px 0 rgba(0, 0, 0, 0.5);
+}
+
+.nav_crl {
+  display: flex;
+  margin: 0 auto;
+  width: 85vw;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Links {
+  padding: 0 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Links a {
+  padding: 0.25rem;
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: #222;
+  transition: color 300ms ease-in-out;
+  letter-spacing: 2px;
+}
+.Links a:hover {
+  color: #476a2e;
+}
+
+.Links a:not(:last-child) {
+  margin-right: 0.5rem;
+}
+
+.logo {
+  width: 12rem;
+}

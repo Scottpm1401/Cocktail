@@ -1,0 +1,20 @@
+.profile_crl {
+  width: 40vw;
+  margin: 0 auto;
+  background-color: white;
+  border: 0.25rem;
+  box-shadow: 1px 0 5px 4px rgba(0, 0, 0, 0.5);
+}
+
+.profile_form {
+  padding: 1.25rem;
+}
+
+.profile_form p {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+.profile_form p span {
+  font-weight: 600;
+}

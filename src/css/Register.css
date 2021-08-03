@@ -1,0 +1,32 @@
+.register_form {
+  background-color: white;
+  border-radius: 0.25rem;
+  width: 20vw;
+  margin: 0 auto;
+  box-shadow: 1px 0 5px 4px rgba(0, 0, 0, 0.5);
+}
+
+.register_form label {
+  display: block;
+  font-size: 1.25rem;
+  text-align: left;
+}
+
+.register_form input {
+  font-size: 1rem;
+  width: 99%;
+  border-radius: 0.25rem;
+  background-color: #f1f5f8;
+  margin-bottom: 1rem;
+  padding: 0.2rem;
+}
+
+.register_form button {
+  width: 100%;
+}
+
+.resError {
+  color: red;
+  font-weight: 600;
+  font-size: 1.25rem;
+}
